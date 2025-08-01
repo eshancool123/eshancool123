@@ -77,7 +77,7 @@ const eshan = {
 🔧 **Tech:** React, .NET Core, MSSQL, Tailwind CSS  
 ✨ **Features:** AI-powered CV matching, automated scheduling, pre-screening tests
 
-[View Project →](https://github.com/eshancool123/askhire)
+[View Project →](https://github.com/AskHire)
 
 </td>
 <td width="50%">
