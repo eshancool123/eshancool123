@@ -132,8 +132,6 @@ const eshan = {
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eshancool123&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
