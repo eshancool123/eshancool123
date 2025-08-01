@@ -101,7 +101,7 @@ const eshan = {
 🔧 **Tech:** React.js, Ballerina, MongoDB Atlas  
 ✨ **Features:** Location sharing, Firebase auth, responsive design
 
-[View Project →](https://github.com/eshancool123/foodi-find)
+[View Project →](https://github.com/eshancool123/iwb346-code-crusaders)
 
 </td>
 <td width="50%">
@@ -112,7 +112,6 @@ const eshan = {
 🔧 **Tech:** ESP32, Firebase, HTML/CSS/JS  
 ✨ **Features:** Real-time vital signs, remote monitoring, OLED display
 
-[View Project →](https://github.com/eshancool123/wearrecover)
 
 </td>
 </tr>
