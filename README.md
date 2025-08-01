@@ -88,7 +88,7 @@ const eshan = {
 🔧 **Tech:** React.js, Node.js, MongoDB, AI Integration  
 ✨ **Features:** RESTful APIs, AI chatbot, real-time updates
 
-[View Project →](https://github.com/eshancool123/spirit11)
+[View Project →](https://github.com/Code-Crusaders-UOM)
 
 </td>
 </tr>
