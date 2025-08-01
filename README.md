@@ -1,5 +1,3 @@
-Here's a GitHub profile README file for you, Eshan, incorporating details from your CV and the feedback provided. This README is designed to be engaging, highlight your strengths, and clearly communicate your skills and ambitions to anyone visiting your GitHub profile.
-
 ## Hi there 👋
 
 ### About Me
@@ -10,7 +8,7 @@ Here's a GitHub profile README file for you, Eshan, incorporating details from y
   - 👯 I’m looking to collaborate on innovative full-stack web applications, AI/ML projects, or any open-source initiatives that solve real-world problems.
   - 🤔 I’m always open to discussing new technologies, best practices in software architecture, and effective problem-solving strategies.
   - 💬 Ask me about my projects, full-stack development, or anything related to building impactful software\!
-  - 📫 How to reach me: [eshansenadhi5@gmail.com](mailto:eshansenadhi5@gmail.com) |([https://www.linkedin.com/in/eshan-senadhi-XXXXXX/](https://www.google.com/search?q=https://www.linkedin.com/in/eshan-senadhi-XXXXXX/)) (Please replace 'XXXXXX' with your actual LinkedIn profile ID for a direct link)
+  - 📫 How to reach me: [eshansenadhi5@gmail.com](mailto:eshansenadhi5@gmail.com) |(([https://www.google.com/search?q=https://www.linkedin.com/in/eshan-senadhi-XXXXXX/](https://www.linkedin.com/in/eshan-senadhi-2084312a8/)))
   - 😄 Pronouns: He/Him
 
 ### My Skillset
