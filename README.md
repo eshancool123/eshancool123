@@ -127,13 +127,13 @@ const eshan = {
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eshancool123&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -159,7 +159,7 @@ const eshan = {
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-senadhi-2084312a8/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshansenadhi5@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshancool123)
 
 </div>
 
@@ -170,9 +170,9 @@ const eshan = {
 ### 💭 Quote of the Day
 *"The best way to predict the future is to create it."* - Peter Drucker
 
-**⭐ From [yourusername](https://github.com/yourusername)**
+**⭐ From [eshancool123](https://github.com/eshancool123)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=eshancool123&color=brightgreen&style=flat-square)
 
 </div>
 
