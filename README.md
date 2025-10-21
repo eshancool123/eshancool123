@@ -17,7 +17,7 @@ const eshan = {
     location: "Sri Lanka 🇱🇰",
     education: "BSc (Hons) Information Technology - University of Moratuwa",
     currentFocus: ["Cloud Platforms", "Testing Frameworks", "Containerization"],
-    interests: ["Full-Stack Development", "AI/ML", "Open Source"],
+    interests: ["Full-Stack Development", "AI/ML"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
@@ -133,7 +133,7 @@ const eshan = {
 `CodeRush` `MoraXtreme` `Innovate with Ballerina` `AlgoXplore`
 
 ### 🤝 Community Involvement
-**IEEE Student Branch Volunteer** | **Chess Player** | **Open Source Contributor**
+**IEEE Student Branch Volunteer** | **Chess Player** 
 
 </div>
 
