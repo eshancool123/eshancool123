@@ -498,24 +498,11 @@ const eshan: Developer = {
 ### 📈 Performance Metrics
 
 <a href="https://github.com/eshancool123">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/eshancool123">
   <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=eshancool123&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&border_radius=10" alt="GitHub Streak" />
 </a>
 
 </div>
 
-<div align="center">
-  
-<a href="https://github.com/eshancool123">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&hide=html,css&border_radius=10" alt="Top Languages" />
-</a>
-<a href="https://github.com/eshancool123">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&hide_rank=false&border_radius=10" alt="Contribution Stats" />
-</a>
-
-</div>
 
 <div align="center">
 
