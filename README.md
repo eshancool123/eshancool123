@@ -56,7 +56,6 @@ const eshan: Developer = {
 - 🤝 Strong believer in **clean code**, **best practices**, and **collaborative development**
 - 📚 Continuous learner exploring **cloud technologies**, **DevOps**, and **AI/ML applications**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Technology Stack
 
@@ -499,7 +498,7 @@ const eshan: Developer = {
 ### 📈 Performance Metrics
 
 <a href="https://github.com/eshancool123">
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/eshancool123">
   <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=eshancool123&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&border_radius=10" alt="GitHub Streak" />
@@ -510,10 +509,10 @@ const eshan: Developer = {
 <div align="center">
   
 <a href="https://github.com/eshancool123">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&hide=html,css&border_radius=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&hide=html,css&border_radius=10" alt="Top Languages" />
 </a>
 <a href="https://github.com/eshancool123">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&hide_rank=false&border_radius=10" alt="Contribution Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&hide_rank=false&border_radius=10" alt="Contribution Stats" />
 </a>
 
 </div>
@@ -522,7 +521,9 @@ const eshan: Developer = {
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshancool123&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&hide_border=true&title_color=36BCF7" alt="Contribution Graph" width="100%"/>
+<a href="https://github.com/eshancool123">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshancool123&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&hide_border=true&title_color=36BCF7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
+</a>
 
 </div>
 
@@ -530,7 +531,9 @@ const eshan: Developer = {
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=eshancool123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<a href="https://github.com/eshancool123">
+  <img src="https://github-profile-trophy.vercel.app/?username=eshancool123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -543,9 +546,15 @@ const eshan: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshancool123&theme=tokyonight" alt="Repos per Language" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshancool123&theme=tokyonight" alt="Most Commit Language" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshancool123&theme=tokyonight" alt="Stats" width="32%"/>
+<a href="https://github.com/eshancool123">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshancool123&theme=tokyonight" alt="Repos per Language" width="32%"/>
+</a>
+<a href="https://github.com/eshancool123">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshancool123&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+</a>
+<a href="https://github.com/eshancool123">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshancool123&theme=tokyonight" alt="Stats" width="32%"/>
+</a>
 
 </div>
 
