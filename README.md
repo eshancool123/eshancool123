@@ -1,235 +1,189 @@
-# Hi there, I'm Eshan! 👋
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;IT+Undergraduate+%40+UoM+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+# Eshan Senadhi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-senadhi-2084312a8/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshansenadhi5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshancool123)
-![Profile Views](https://komarev.com/ghpvc/?username=eshancool123&color=36BCF7&style=for-the-badge)
+### Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-senadhi-2084312a8/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eshansenadhi5@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/eshancool123)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-> **IT Undergraduate** at University of Moratuwa | **2+ Years** in Software Development
+Software Engineer with 2+ years of experience building scalable web applications and intelligent systems. Currently pursuing BSc (Hons) in Information Technology at the University of Moratuwa. Specialized in full-stack development, cloud architecture, and AI/ML integration with a proven track record of delivering production-ready solutions.
 
-I am a passionate developer focused on building scalable solutions and exploring cutting-edge technologies. My journey involves diving deep into **Cloud Architecture**, **AI/ML Applications**, and **Modern Web Development**. I love turning complex problems into elegant code.
+**Core Competencies:** System Design • API Development • Database Architecture • Cloud Solutions • Agile Development
 
-```javascript
-const eshan = {
-    location: "Sri Lanka 🇱🇰",
-    education: "BSc (Hons) IT - University of Moratuwa",
-    experience: "2+ Years",
-    currentlyLearning: ["AWS/Azure", "Docker & Kubernetes", "Testing Automation"],
-    interests: ["Full-Stack Dev", "AI/ML", "Cloud Native Apps"],
-    funFact: "Debugging is my cardio 🏃‍♂️💨"
-};
+---
+
+## 🛠 Technical Expertise
+
+### Languages & Frameworks
+```
+Frontend:    React.js, HTML5, CSS3, Tailwind CSS, JavaScript (ES6+)
+Backend:     Node.js, Express.js, .NET Core, Ballerina, PHP
+Languages:   JavaScript, Python, Java, C, SQL
 ```
 
+### Infrastructure & Tools
+```
+Databases:   MongoDB, MySQL, Microsoft SQL Server, Firebase
+DevOps:      Git, GitHub, Docker, CI/CD
+Cloud:       Firebase, MongoDB Atlas
+Development: VS Code, REST APIs, Microservices Architecture
+```
+
+### Specialized Skills
+- **Full-Stack Development:** End-to-end application development with modern frameworks
+- **API Design:** RESTful services, microservices architecture, API security
+- **Database Design:** Schema design, query optimization, data modeling
+- **Cloud Integration:** Serverless architecture, cloud storage, real-time databases
+- **AI/ML Integration:** Machine learning model deployment, intelligent automation
+
 ---
 
-## 💻 Tech Stack
+## 💼 Featured Projects
+
+### **AskHire** | Intelligent Recruitment Platform
+[View Repository →](https://github.com/AskHire)
+
+Enterprise-grade recruitment automation system leveraging AI for candidate assessment and process optimization.
+
+**Tech Stack:** React.js, .NET Core, Microsoft SQL Server, Tailwind CSS  
+**Key Features:**
+- AI-powered CV parsing and candidate matching algorithm
+- Automated interview scheduling with conflict resolution
+- Pre-screening assessment module with real-time evaluation
+- Comprehensive analytics dashboard for hiring metrics
+
+**Impact:** Reduced recruitment cycle time by automating manual screening processes
+
+---
+
+### **Spirit11** | Fantasy Cricket Platform
+[View Repository →](https://github.com/Code-Crusaders-UOM)
+
+Full-featured fantasy sports platform with real-time updates and AI-driven insights.
+
+**Tech Stack:** React.js, Node.js, MongoDB, AI Integration  
+**Key Features:**
+- RESTful API architecture handling concurrent requests
+- AI chatbot for user engagement and support
+- Real-time match updates via WebSocket integration
+- User authentication and authorization system
+
+**Impact:** Successfully deployed platform serving multiple concurrent users
+
+---
+
+### **Foodi-Find** | Location-Based Service Discovery
+[View Repository →](https://github.com/eshancool123/iwb346-code-crusaders)
+
+Modern web application for discovering and sharing street food locations with real-time updates.
+
+**Tech Stack:** React.js, Ballerina, MongoDB Atlas, Firebase  
+**Key Features:**
+- Geolocation-based search and discovery
+- Firebase authentication and authorization
+- Responsive design with mobile-first approach
+- Cloud database integration with real-time sync
+
+**Impact:** Streamlined food discovery process with intuitive UX
+
+---
+
+### **WearRecover** | IoT Health Monitoring System
+
+IoT-enabled health monitoring solution for remote patient vital signs tracking.
+
+**Tech Stack:** ESP32 Microcontroller, Firebase, HTML/CSS/JavaScript  
+**Key Features:**
+- Real-time vital signs monitoring (heart rate, temperature, SpO2)
+- Cloud synchronization for remote access
+- OLED display for local feedback
+- Alert system for abnormal readings
+
+**Impact:** Enabled remote health monitoring capabilities
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Ballerina](https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge&logo=ballerina&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎓 Education & Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**BSc (Hons) in Information Technology**  
+University of Moratuwa, Sri Lanka | Expected Graduation: 2026
 
-### 🤖 [AskHire](https://github.com/AskHire)
-**AI-Powered Recruitment Automation**
-
-> *Streamlining the hiring process with intelligent automation.*
-
-`React` ` .NET Core` `MSSQL` `Tailwind`
-
-- **AI Matching**: Advanced CV matching algorithm.
-- **Automation**: Smart interview scheduling.
-- **Assessment**: Pre-screening system.
-- **Analytics**: Comprehensive dashboard.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏏 [Spirit11](https://github.com/Code-Crusaders-UOM)
-**Fantasy Cricket League Platform**
-
-> *Immersive fantasy sports experience.*
-
-`React.js` `Node.js` `MongoDB` `AI`
-
-- **Real-time**: Live match updates.
-- **Assistant**: AI-powered chatbot.
-- **API**: Robust RESTful architecture.
-- **Management**: User league system.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍕 [Foodi-Find](https://github.com/eshancool123/iwb346-code-crusaders)
-**Street Food Discovery App**
-
-> *Discover local flavors around you.*
-
-`React.js` `Ballerina` `MongoDB`
-
-- **Discovery**: Location-based food finding.
-- **Security**: Firebase authentication.
-- **Design**: Mobile-first responsive UI.
-- **Maps**: Interactive mapping integration.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [WearRecover](https://github.com/eshancool123)
-**IoT Health Monitoring System**
-
-> *Smart health tracking for better recovery.*
-
-`ESP32` `Firebase` `IoT`
-
-- **Tracking**: Real-time vital signs.
-- **Monitoring**: Remote patient dashboard.
-- **Interface**: OLED display integration.
-- **Sync**: Cloud data synchronization.
-
-</td>
-</tr>
-</table>
+**Relevant Coursework:**
+- Data Structures & Algorithms
+- Database Management Systems
+- Software Engineering
+- Cloud Computing
+- Machine Learning Fundamentals
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Professional Development
 
-<div align="center">
+**Hackathons & Competitions:**
+- CodeRush 2024 - Full-Stack Development Challenge
+- MoraXtreme 2024 - Software Engineering Competition
+- Innovate with Ballerina - Cloud-Native Development
+- AlgoXplore - Algorithm Design Competition
 
-![Eshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshancool123&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🏅 Event | 🎗️ Role/Achievement |
-|:---|:---|
-| **CodeRush** | Participant |
-| **MoraXtreme** | Competitor |
-| **Innovate with Ballerina** | Participant |
-| **AlgoXplore** | Participant |
-| **IEEE Student Branch** | Volunteer |
-| **University Chess** | Player |
-
-</div>
+**Community Engagement:**
+- IEEE Student Branch - Active Volunteer
+- University Tech Communities - Regular Contributor
+- Open Source Contributions - GitHub Projects
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Cloud: AWS, Azure, GCP
-  - Testing: Jest, Pytest, Selenium
-  - DevOps: Docker, Kubernetes, CI/CD
-  - AI/ML: TensorFlow, PyTorch, NLP
+Technical Growth:
+  - Cloud Architecture: AWS, Azure, Google Cloud Platform
+  - DevOps Practices: Kubernetes, Jenkins, CI/CD Pipelines
+  - Testing Automation: Jest, Pytest, Selenium
+  - Advanced AI/ML: TensorFlow, PyTorch, Deep Learning
 
-Building:
-  - Scalable microservices architecture
-  - AI-powered web applications
-  - Cloud-native solutions
+Professional Development:
+  - System Design Patterns
+  - Scalable Architecture Design
+  - Performance Optimization
+  - Security Best Practices
 ```
 
 ---
 
-## 💭 Developer Wisdom
+## 📫 Contact & Collaboration
+
+I'm interested in challenging opportunities in software engineering, particularly in roles involving full-stack development, cloud architecture, or AI/ML integration. Open to discussing innovative projects and collaboration opportunities.
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."*
->
-> — **Cory House**
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-senadhi-2084312a8/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshansenadhi5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-senadhi-2084312a8/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshansenadhi5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshancool123)
 
-</div>
-
 ---
 
-<div align="center">
+**Location:** Colombo, Sri Lanka | **Availability:** Open to opportunities
 
-### ⚡ Quick Facts
-
-🎓 **IT Student** @ UoM | 💻 **2+ Years** Experience | 🌏 Based in **Sri Lanka** | ☕ **Coffee** Enthusiast
-
-```
-╔════════════════════════════════════════════════════════╗
-║   Thanks for stopping by! Feel free to explore my      ║
-║   repositories and reach out for collaborations! 🚀    ║
-╚════════════════════════════════════════════════════════╝
-```
-
-**⭐ Star my repos if you find them interesting!**
+![Profile Views](https://komarev.com/ghpvc/?username=eshancool123&color=0A66C2&style=flat)
 
 </div>
