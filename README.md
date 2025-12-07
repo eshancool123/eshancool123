@@ -17,7 +17,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
+
 ## 🚀 About Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -67,18 +77,70 @@ const eshan: Developer = {
 
 ## 🛠️ Technology Stack
 
+<div align="center">
+  
+### 💡 "Code is poetry written in logic"
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,bash&theme=dark" alt="Languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,sass&theme=dark" alt="Frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,flask,fastapi&theme=dark" alt="Backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&theme=dark" alt="Databases" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,github,nginx&theme=dark" alt="DevOps" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,pycharm,postman,arduino,raspberrypi&theme=dark" alt="Tools" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
+
 ### 💻 Programming Languages
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <br>JavaScript
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  <br>TypeScript
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br>Python
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <br>Java
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+  <br>C
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  <br>C++
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+  <br>PHP
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+  <br>Bash
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -86,15 +148,46 @@ const eshan: Developer = {
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <br>React
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <br>Next.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+  <br>Redux
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <br>HTML5
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+  <br>CSS3
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+  <br>Tailwind
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+  <br>Bootstrap
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material-UI" />
+  <br>Material UI
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+  <br>Sass
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -102,14 +195,34 @@ const eshan: Developer = {
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Ballerina](https://img.shields.io/badge/Ballerina-FF5000?style=for-the-badge&logo=ballerina&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br>Node.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+  <br>Express.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+  <br>.NET
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
+  <br>Django
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+  <br>Flask
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+  <br>FastAPI
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -117,12 +230,34 @@ const eshan: Developer = {
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <br>MongoDB
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <br>MySQL
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <br>PostgreSQL
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <br>Redis
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <br>Firebase
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+  <br>SQLite
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -130,14 +265,42 @@ const eshan: Developer = {
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  <br>AWS
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+  <br>Azure
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+  <br>GCP
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br>Docker
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  <br>Kubernetes
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+  <br>Jenkins
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+  <br>Actions
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+  <br>Nginx
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -145,12 +308,34 @@ const eshan: Developer = {
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+  <br>TensorFlow
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+  <br>PyTorch
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="scikit-learn" />
+  <br>Scikit-learn
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+  <br>OpenCV
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <br>Pandas
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+  <br>NumPy
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -158,14 +343,42 @@ const eshan: Developer = {
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br>Git
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <br>GitHub
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <br>VS Code
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
+  <br>VS
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+  <br>IntelliJ
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
+  <br>PyCharm
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  <br>Postman
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br>Linux
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -173,10 +386,26 @@ const eshan: Developer = {
 
 <div align="center">
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+  <br>Jest
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+  <br>Selenium
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" height="48" alt="Pytest" />
+  <br>Pytest
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="Cypress" />
+  <br>Cypress
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -184,10 +413,26 @@ const eshan: Developer = {
 
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+  <br>React Native
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+  <br>Arduino
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi" />
+  <br>Raspberry Pi
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+  <br>Flutter
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -319,16 +564,18 @@ const eshan: Developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshancool123&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
+
+### 📈 Performance Metrics
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=eshancool123&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=eshancool123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&exclude_repo=eshancool123" alt="Top Languages" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=eshancool123&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 
 </div>
 
@@ -336,7 +583,7 @@ const eshan: Developer = {
 
 ### 📈 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=eshancool123&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&hide_border=true&title_color=36BCF7)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshancool123&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&hide_border=true&title_color=36BCF7" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -344,7 +591,23 @@ const eshan: Developer = {
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eshancool123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=eshancool123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+### 💫 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshancool123&theme=tokyonight" alt="Profile Summary" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshancool123&theme=tokyonight" alt="Repos per Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshancool123&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshancool123&theme=tokyonight" alt="Stats" width="32%"/>
 
 </div>
 
@@ -501,14 +764,22 @@ Microservices Architecture:
 
 <div align="center">
 
-### 📈 Coding Time Breakdown (Last 7 Days)
+### 📈 Coding Time Breakdown
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eshancool123&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity" alt="Wakatime Stats" width="47%"/>
+
+</div>
+
+<div align="center">
+
+### 🎨 Dynamic Code Visualization
 
 ```text
-JavaScript/TypeScript  ███████████████░░░░░░  65%
-Python                 ████████░░░░░░░░░░░░░  35%
-Java                   ███░░░░░░░░░░░░░░░░░░  12%
-C/C++                  ██░░░░░░░░░░░░░░░░░░░  08%
-Other                  ██░░░░░░░░░░░░░░░░░░░  10%
+🟦 JavaScript/TypeScript  ███████████████░░░░░░  65%  ⚡ Primary Stack
+🟩 Python                 ████████░░░░░░░░░░░░░  35%  🐍 AI/ML Projects
+🟧 Java                   ███░░░░░░░░░░░░░░░░░░  12%  ☕ Backend Systems
+🟥 C/C++                  ██░░░░░░░░░░░░░░░░░░░  08%  🔧 Low-Level Code
+🟪 Other                  ██░░░░░░░░░░░░░░░░░░░  10%  🛠️ Various Tools
 ```
 
 </div>
@@ -551,8 +822,22 @@ Feel free to reach out through any of the following channels:
 
 <div align="center">
 
-[![AskHire](https://github-readme-stats.vercel.app/api/pin/?username=eshancool123&repo=AskHire&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF)](https://github.com/AskHire)
-[![Spirit11](https://github-readme-stats.vercel.app/api/pin/?username=Code-Crusaders-UOM&repo=Spirit11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF)](https://github.com/Code-Crusaders-UOM)
+<a href="https://github.com/AskHire">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshancool123&repo=AskHire&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" width="48%" alt="AskHire"/>
+</a>
+<a href="https://github.com/Code-Crusaders-UOM/Spirit11">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Crusaders-UOM&repo=Spirit11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" width="48%" alt="Spirit11"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 🌟 Repository Spotlight
+
+<a href="https://github.com/eshancool123/iwb346-code-crusaders">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshancool123&repo=iwb346-code-crusaders&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&description_lines_count=3" width="48%" alt="Foodi-Find"/>
+</a>
 
 </div>
 
