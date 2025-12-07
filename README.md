@@ -704,16 +704,19 @@ Feel free to reach out through any of the following channels:
 ✅ Full-time Positions
 ```
 
+<br>
+### 🎮 When I'm Not Coding...
+🏃‍♂️ Running & Fitness • ♟️ Playing Chess • 📚 Reading Tech Blogs  
+🎮 Gaming • 🎵 Listening to Music • 🌄 Hiking & Nature
+
+
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎮 When I'm Not Coding...
-<div align="center">
-🏃‍♂️ Running & Fitness • ♟️ Playing Chess • 📚 Reading Tech Blogs  
-🎮 Gaming • 🎵 Listening to Music • 🌄 Hiking & Nature
 
-<br>
+<div align="center">
 
 ```
 
