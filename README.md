@@ -717,11 +717,7 @@ Feel free to reach out through any of the following channels:
 <br>
 
 ```
-
-║  Thanks for visiting my profile! Feel free to explore my 
-║  repositories and don't hesitate to reach out for           
-║  collaborations, questions, or just a friendly chat! 🚀     
-
+Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations, questions, or just a friendly chat! 🚀     
 ```
 <br>
 </div>
