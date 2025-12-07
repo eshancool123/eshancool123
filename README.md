@@ -23,13 +23,7 @@
 
 ## 🚀 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
 interface Developer {
@@ -77,25 +71,6 @@ const eshan: Developer = {
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-  
-### 💡 "Code is poetry written in logic"
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,bash&theme=dark" alt="Languages" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,sass&theme=dark" alt="Frontend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,django,flask,fastapi&theme=dark" alt="Backend" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&theme=dark" alt="Databases" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,github,nginx&theme=dark" alt="DevOps" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,pycharm,postman,arduino,raspberrypi&theme=dark" alt="Tools" />
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
@@ -135,10 +110,6 @@ const eshan: Developer = {
   <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <br>PHP
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-  <br>Bash
-</td>
 </tr>
 </table>
 
@@ -159,10 +130,6 @@ const eshan: Developer = {
   <br>Next.js
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-  <br>Redux
-</td>
-<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
   <br>HTML5
 </td>
@@ -181,10 +148,6 @@ const eshan: Developer = {
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material-UI" />
   <br>Material UI
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-  <br>Sass
 </td>
 </tr>
 </table>
@@ -276,10 +239,6 @@ const eshan: Developer = {
   <br>Azure
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-  <br>GCP
-</td>
-<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
   <br>Docker
 </td>
@@ -290,14 +249,6 @@ const eshan: Developer = {
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
   <br>Jenkins
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-  <br>Actions
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-  <br>Nginx
 </td>
 </tr>
 </table>
@@ -360,14 +311,6 @@ const eshan: Developer = {
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
   <br>VS
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-  <br>IntelliJ
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
-  <br>PyCharm
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
@@ -464,7 +407,7 @@ const eshan: Developer = {
 
 **Key Features:**
 - 🤖 Advanced AI-driven CV matching algorithm
-- 📅 Intelligent automated interview scheduling
+- 📅 Automated interview scheduling
 - ✅ Comprehensive pre-screening assessment system
 - 📊 Real-time analytics dashboard
 - 🔐 Secure authentication & authorization
@@ -517,7 +460,6 @@ const eshan: Developer = {
 **Key Features:**
 - 📍 GPS-based location discovery
 - 🔐 Firebase authentication & authorization
-- 📱 Fully responsive mobile-first design
 - 🗺️ Interactive map integration
 - ⭐ Rating & review system
 - 🔍 Advanced search & filter options
@@ -567,23 +509,15 @@ const eshan: Developer = {
 
 ### 📈 Performance Metrics
 
-<a href="https://github.com/eshancool123">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/eshancool123">
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=eshancool123&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
-</a>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=eshancool123&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
   
-<a href="https://github.com/eshancool123">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&hide=html,css&cache_seconds=1800" alt="Top Languages" />
-</a>
-<a href="https://github.com/eshancool123">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eshancool123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&rank_icon=github&cache_seconds=1800" alt="Contribution Stats" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshancool123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&langs_count=8&exclude_repo=eshancool123" alt="Top Languages" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=eshancool123&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 
 </div>
 
@@ -591,9 +525,7 @@ const eshan: Developer = {
 
 ### 📈 Contribution Graph
 
-<a href="https://github.com/eshancool123">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshancool123&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&hide_border=true&title_color=36BCF7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eshancool123&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&hide_border=true&title_color=36BCF7" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -601,9 +533,7 @@ const eshan: Developer = {
 
 ### 🏆 GitHub Trophies
 
-<a href="https://github.com/eshancool123">
-  <img src="https://github-profile-trophy.vercel.app/?username=eshancool123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=eshancool123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -611,23 +541,15 @@ const eshan: Developer = {
 
 ### 💫 Profile Summary
 
-<a href="https://github.com/eshancool123">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshancool123&theme=tokyonight" alt="Profile Summary" width="100%"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshancool123&theme=tokyonight" alt="Profile Summary" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/eshancool123">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshancool123&theme=tokyonight" alt="Repos per Language" width="32%"/>
-</a>
-<a href="https://github.com/eshancool123">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshancool123&theme=tokyonight" alt="Most Commit Language" width="32%"/>
-</a>
-<a href="https://github.com/eshancool123">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshancool123&theme=tokyonight" alt="Stats" width="32%"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshancool123&theme=tokyonight" alt="Repos per Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshancool123&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshancool123&theme=tokyonight" alt="Stats" width="32%"/>
 
 </div>
 
@@ -689,7 +611,6 @@ const eshan: Developer = {
 Cloud Platforms:
   AWS: [EC2, S3, Lambda, RDS, CloudFormation]
   Azure: [App Service, Functions, Cosmos DB]
-  GCP: [Compute Engine, Cloud Functions, Firestore]
   Status: 🔄 In Progress
 
 DevOps & Container Orchestration:
@@ -751,15 +672,15 @@ Microservices Architecture:
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║  "First, solve the problem. Then, write the code."       ║
+║  "First, solve the problem. Then, write the code."         ║
 ║                                    — John Johnson          ║
 ║                                                            ║
-║  "Code is like humor. When you have to explain it,       ║
-║   it's bad."                       — Cory House           ║
+║  "Code is like humor. When you have to explain it,         ║
+║   it's bad."                       — Cory House            ║
 ║                                                            ║
-║  "Any fool can write code that a computer can             ║
-║   understand. Good programmers write code that            ║
-║   humans can understand."          — Martin Fowler        ║
+║  "Any fool can write code that a computer can              ║
+║   understand. Good programmers write code that             ║
+║   humans can understand."          — Martin Fowler         ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -777,34 +698,6 @@ Microservices Architecture:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<div align="center">
-
-### 📈 Coding Time Breakdown
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eshancool123&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity" alt="Wakatime Stats" width="47%"/>
-
-</div>
-
-<div align="center">
-
-### 🎨 Dynamic Code Visualization
-
-```text
-🟦 JavaScript/TypeScript  ███████████████░░░░░░  65%  ⚡ Primary Stack
-🟩 Python                 ████████░░░░░░░░░░░░░  35%  🐍 AI/ML Projects
-🟧 Java                   ███░░░░░░░░░░░░░░░░░░  12%  ☕ Backend Systems
-🟥 C/C++                  ██░░░░░░░░░░░░░░░░░░░  08%  🔧 Low-Level Code
-🟪 Other                  ██░░░░░░░░░░░░░░░░░░░  10%  🛠️ Various Tools
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Get In Touch
 
@@ -828,7 +721,6 @@ Feel free to reach out through any of the following channels:
 
 ```
 ✅ Freelance Projects
-✅ Open Source Collaboration
 ✅ Technical Discussions
 ✅ Mentorship Opportunities
 ✅ Full-time Positions
