@@ -635,20 +635,6 @@ Microservices Architecture:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Professional Experience Highlights
-
-<div align="center">
-
-| Role | Technologies | Key Achievements |
-|:-----|:-------------|:-----------------|
-| **Full Stack Developer** | React, Node.js, MongoDB | Built 5+ production applications serving 1000+ users |
-| **Backend Engineer** | .NET Core, MSSQL, REST APIs | Designed scalable microservices architecture |
-| **IoT Developer** | ESP32, Arduino, Firebase | Developed healthcare monitoring solutions |
-| **AI/ML Developer** | Python, TensorFlow, NLP | Implemented intelligent automation systems |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💭 Developer Philosophy
 
@@ -743,8 +729,8 @@ Feel free to reach out through any of the following channels:
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║  Thanks for visiting my profile! Feel free to explore my    ║
-║  repositories and don't hesitate to reach out for           ║
+║  Thanks for visiting my profile! Feel free to explore my     ║
+║  repositories and don't hesitate to reach out for            ║
 ║  collaborations, questions, or just a friendly chat! 🚀     ║
 ║                                                              ║
 ║  💡 "The best way to predict the future is to invent it"    ║
