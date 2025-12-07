@@ -691,7 +691,7 @@ Feel free to reach out through any of the following channels:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-senadhi-2084312a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_for_Updates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eshancool123)
 [![Email](https://img.shields.io/badge/Gmail-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshansenadhi5@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://eshan-portfolio.vercel.app/)](#)
 
 <br>
 
