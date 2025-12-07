@@ -15,7 +15,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
@@ -26,16 +25,6 @@
 
 
 ```typescript
-interface Developer {
-  name: string;
-  location: string;
-  education: string;
-  experience: string;
-  currentFocus: string[];
-  interests: string[];
-  available: boolean;
-}
-
 const eshan: Developer = {
   name: "Eshan Senadhi",
   location: "Sri Lanka 🇱🇰",
@@ -800,7 +789,6 @@ Feel free to reach out through any of the following channels:
 
 <br>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 **💙 Crafted with passion and code by Eshan Senadhi**
 
@@ -811,7 +799,5 @@ Feel free to reach out through any of the following channels:
 <div align="center">
   
 **Last Updated:** December 2024 • **Status:** 🟢 Available for opportunities
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 </div>
