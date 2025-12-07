@@ -708,9 +708,8 @@ Feel free to reach out through any of the following channels:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
 ### 🎮 When I'm Not Coding...
-
+<div align="center">
 🏃‍♂️ Running & Fitness • ♟️ Playing Chess • 📚 Reading Tech Blogs  
 🎮 Gaming • 🎵 Listening to Music • 🌄 Hiking & Nature
 
@@ -718,7 +717,7 @@ Feel free to reach out through any of the following channels:
 
 ```
 
-  Thanks for visiting my profile! Feel free to explore my 
+Thanks for visiting my profile! Feel free to explore my 
   repositories and don't hesitate to reach out for           
   collaborations, questions, or just a friendly chat! 🚀     
 
