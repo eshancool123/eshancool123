@@ -709,19 +709,6 @@ Feel free to reach out through any of the following channels:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### ⚡ Quick Facts About Me
-
-```
-🎓 IT Student @ University of Moratuwa
-💻 2+ Years of Software Development Experience
-🌏 Based in Sri Lanka 🇱🇰
-☕ Powered by Coffee & Code
-🎯 Always Learning, Always Building
-🚀 Open to New Opportunities
-```
-
-<br>
-
 ### 🎮 When I'm Not Coding...
 
 🏃‍♂️ Running & Fitness • ♟️ Playing Chess • 📚 Reading Tech Blogs  
@@ -730,30 +717,15 @@ Feel free to reach out through any of the following channels:
 <br>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  Thanks for visiting my profile! Feel free to explore my     ║
-║  repositories and don't hesitate to reach out for            ║
-║  collaborations, questions, or just a friendly chat! 🚀     ║
-║                                                              ║
-║  💡 "The best way to predict the future is to invent it"    ║
-║                                        — Alan Kay            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+
+║  Thanks for visiting my profile! Feel free to explore my 
+║  repositories and don't hesitate to reach out for           
+║  collaborations, questions, or just a friendly chat! 🚀     
+
 ```
 
 <br>
 
-### 🌟 If you find my work interesting, please consider:
-
-[![Star](https://img.shields.io/badge/⭐_Star_My_Repos-yellow?style=for-the-badge)](https://github.com/eshancool123?tab=repositories)
-[![Follow](https://img.shields.io/badge/👤_Follow_Me-blue?style=for-the-badge)](https://github.com/eshancool123)
-[![Share](https://img.shields.io/badge/🔗_Share_Profile-green?style=for-the-badge)](https://github.com/eshancool123)
-
-<br>
-
-
-**💙 Crafted with passion and code by Eshan Senadhi**
 
 </div>
 
