@@ -705,6 +705,7 @@ Feel free to reach out through any of the following channels:
 ```
 
 <br>
+
 ### 🎮 When I'm Not Coding...
 🏃‍♂️ Running & Fitness • ♟️ Playing Chess • 📚 Reading Tech Blogs  
 🎮 Gaming • 🎵 Listening to Music • 🌄 Hiking & Nature
