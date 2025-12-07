@@ -719,32 +719,6 @@ Feel free to reach out through any of the following channels:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/AskHire">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshancool123&repo=AskHire&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" width="48%" alt="AskHire"/>
-</a>
-<a href="https://github.com/Code-Crusaders-UOM/Spirit11">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-Crusaders-UOM&repo=Spirit11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" width="48%" alt="Spirit11"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### 🌟 Repository Spotlight
-
-<a href="https://github.com/eshancool123/iwb346-code-crusaders">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshancool123&repo=iwb346-code-crusaders&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&description_lines_count=3" width="48%" alt="Foodi-Find"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ### ⚡ Quick Facts About Me
 
