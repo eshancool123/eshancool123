@@ -538,7 +538,6 @@ const eshan: Developer = {
 
 ### 💫 Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshancool123&theme=tokyonight" alt="Profile Summary" width="100%"/>
 
 </div>
 
