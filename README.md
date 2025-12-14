@@ -355,7 +355,7 @@ const eshan: Developer = {
   <br>Arduino
 </td>
 <td align="center" width="96">
-  <img src="https://robu.in/wp-content/uploads/2022/01/1165429-2.jpg" width="48" height="48" alt="ESP32" />
+  <img src="https://m1cr0lab-esp32.github.io/remote-control-with-websocket/logo/thumbnail.png" width="48" height="48" alt="ESP32" />
   <br>ESP32
 </td>
 <td align="center" width="96">
